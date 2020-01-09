@@ -3,10 +3,10 @@
 
 English: Generate bank billet at Checkout of your Woocommerce from Wordpress using **[OrendaPay](https://www.orendapay.com.br/)**. Exclusive plugin for bank transactions in Brazil!
 
-### Descrição ###
+## Descrição ##
 Gere automaticamente boletos bancários para pagamento no Checkout do seu Woocommerce usando a solução de pagamento **[OrendaPay](https://www.orendapay.com.br/)**
 
-### Sobre a Integração ###
+## Sobre a Integração ##
 
 A integração OrendaPay Woocommerce é uma solução completa para cobrar através boletos bancários no WooCommerce. E ainda conta com os retornos automáticos (callbacks), que serão responsáveis por alterar os status dos seus pedidos no Woocommerce de forma automática, atualizando sempre o status do seu pedido para *processando*.
 
@@ -16,14 +16,14 @@ A integração OrendaPay Woocommerce é uma solução completa para cobrar atrav
 - Retorno automático da situação do Pedido
 - Melhor taxa de boletos bancários do Brasil
 
-### Pré Requisitos ###
+## Pré Requisitos ##
 
 - Ter uma conta ativa no **[OrendaPay](https://www.orendapay.com.br/)**
 - Habilitar e obter no Painel **[OrendaPay](https://www.orendapay.com.br/)** o ID e TOKEN de integração da sua conta.
 - Ter o WooCommerce versão 2.2 ou superior já instalado em seu Wordpress, 
 - Ter instalado o Plugin https://wordpress.org/plugins/woocommerce-extra-checkout-fields-for-brazil/, este plugin é responsável por habilitar no Checkout Woocommerce campos extras de uso exclusivo do Brasil, como, CPF, CNPJ, CEP, etc...
 
-### Instalação do Plugin OrendaPay Woocommerce ###
+## Instalação do Plugin OrendaPay Woocommerce ##
 
 A instalação do OrendaPay Woocommerce segue o padrão de qualquer instalação de Plugin no Wordpress, e é bem simples, veja o passo a passo da instalação e configuração:
 
@@ -39,11 +39,11 @@ Após o download, basta seguir as etapas abaixo:
 6) Na página que abrir, clique na aba "Pagamentos" e Habilite o OrendaPay
 7) Depois clique no botão Gerenciar que aparecerá na frente do OrendaPay e informe os dados de integração.
 
-### Dúvidas? ###
+## Dúvidas? ##
 
 Temos uma página exclusiva para dúvidas da integração OrendaPay Woocommerce, **[Dúvidas OrendaPay Woocommerce](https://www.orendapay.com.br/ecommerce)**
 
-### Colaborar ###
+## Colaborar ##
 
 Você pode contribuir com código-fonte em nossa página no [GitHub](https://github.com/orendapay/orendapay-woocommerce/).
 
