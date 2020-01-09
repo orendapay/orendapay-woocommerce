@@ -4,7 +4,7 @@
  *
  * @package   WC_orendapay_class
  * @author    Vítor Hugo Silva Gomes <vitorhugo@vitorhug.com>
- * @license   GPL-2.0+
+ * @license   GPL-3.0+
  * @copyright 2019 OrendaPay
  *
  * @wordpress-plugin
@@ -14,11 +14,10 @@
  * Version:           1.0.0
  * Author:            OrendaPay Soluções Financeiras
  * Author URI:        https://www.orendapay.com.br
- * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * License:           GPL-3.0+
+ * License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
  * Text Domain:       woo-orendapay
- * Domain Path:       /languages
-**/
+ **/
 
 add_filter( 'woocommerce_payment_gateways', 'orendapay_class' );
 
