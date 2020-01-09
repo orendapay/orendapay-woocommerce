@@ -1,8 +1,5 @@
 # OrendaPay WooCommerce #
-**Contributor:** vitorhug
-**Tags:** checkout, billet, boleto, woocommerce, wordpress 
-**License:** GPLv3 or later  
-**License URI:** http://www.gnu.org/licenses/gpl-3.0.html  
+[![Licença do Software][badge-license]](LICENSE)
 
 Generate bank billet at Checkout of your Woocommerce from Wordpress using OrendaPay 
 
@@ -30,7 +27,7 @@ A integração OrendaPay Woocommerce é uma solução completa para cobrar atrav
 
 - Ter uma conta ativa no **[OrendaPay](https://www.orendapay.com.br/)**
 - Habilitar e obter no Painel **[OrendaPay](https://www.orendapay.com.br/)** o ID e TOKEN de integração da sua conta.
-- Ter o WooCommerce já instalado em seu Wordpress.
+- Ter o WooCommerce versão 2.2 ou superior já instalado em seu Wordpress, 
 - Ter instalado o Plugin https://wordpress.org/plugins/woocommerce-extra-checkout-fields-for-brazil/, este plugin é responsável por habilitar no Checkout Woocommerce campos extras de uso exclusivo do Brasil, como, CPF, CNPJ, CEP, etc...
 
 ### Instalação do Plugin OrendaPay Woocommerce ###
@@ -56,5 +53,9 @@ Temos uma página exclusiva para dúvidas da integração OrendaPay Woocommerce,
 ### Colaborar ###
 
 Você pode contribuir com código-fonte em nossa página no [GitHub](https://github.com/orendapay/orendapay-woocommerce/).
+
+## Licença
+
+GNU GPLv3. Por favor, veja o [Arquivo de Licença](LICENSE) para mais informações.
 
 
