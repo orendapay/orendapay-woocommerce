@@ -22,7 +22,6 @@
 
 add_filter( 'woocommerce_payment_gateways', 'orendapay_class' );
 
-
 function orendapay_class( $gateways ) 
 {
 	$gateways[] = 'WC_orendapay_class'; 
