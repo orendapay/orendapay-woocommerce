@@ -1,12 +1,8 @@
 # OrendaPay WooCommerce #
-
 [![Licença do Software][badge-license]](LICENSE)
+English: Generate bank billet at Checkout of your Woocommerce from Wordpress using **[OrendaPay](https://www.orendapay.com.br/)**.
 
-### Description (en) ###
-Generate bank billet at Checkout of your Woocommerce from Wordpress using **[OrendaPay](https://www.orendapay.com.br/)**.
-
-### Descrição (Portugês Brasil) ###
-
+### Descrição ###
 Gere automaticamente boletos bancários para pagamento no Checkout do seu Woocommerce usando a solução de pagamento **[OrendaPay](https://www.orendapay.com.br/)**
 
 ### Sobre a Integração ###
@@ -55,3 +51,4 @@ Você pode contribuir com código-fonte em nossa página no [GitHub](https://git
 GNU GPLv3. Por favor, veja o [Arquivo de Licença](LICENSE) para mais informações.
 
 
+[badge-license]: https://img.shields.io/badge/license-GPLv3-blue.svg
