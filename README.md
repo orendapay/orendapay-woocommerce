@@ -1,16 +1,17 @@
 # OrendaPay WooCommerce #
 [![Licença do Software][badge-license]](LICENSE)
 
-English: Generate bank billet at Checkout of your Woocommerce from Wordpress using **[OrendaPay](https://www.orendapay.com.br/)**. Exclusive plugin for bank transactions in Brazil!
+English: Generate bank billet and credit card transactions at transparency Checkout of your Woocommerce from WordPress using Orenda Pay.  **[OrendaPay](https://www.orendapay.com.br/)**. 
 
 ## Descrição ##
-Gere automaticamente boletos bancários para pagamento no Checkout do seu Woocommerce usando a solução de pagamento **[OrendaPay](https://www.orendapay.com.br/)**
+Implemente transações por cartão de crédito transparente e boletos bancários no Checkout do seu Woocommerce usando a solução de pagamento **[OrendaPay](https://www.orendapay.com.br/)**
 
 ## Sobre a Integração ##
 
-A integração OrendaPay Woocommerce é uma solução completa para cobrar através boletos bancários no WooCommerce. E ainda conta com os retornos automáticos (callbacks), que serão responsáveis por alterar os status dos seus pedidos no Woocommerce de forma automática, atualizando sempre o status do seu pedido para *processando*.
+A integração OrendaPay Woocommerce é uma solução completa para cobrar através boletos bancários ou cartão de crédito no WooCommerce. E ainda conta com os retornos automáticos (callbacks), que serão responsáveis por alterar os status dos seus pedidos no Woocommerce de forma automática, atualizando sempre o status do seu pedido para *processando*.
 
 - Geração de boletos bancários
+- Checkout transparente por Cartão de Crédito
 - Boletos registrados
 - Boletos no formato PDF
 - Retorno automático da situação do Pedido
