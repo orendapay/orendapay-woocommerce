@@ -4,15 +4,17 @@
 English: Generate bank billet and credit card transactions at transparency Checkout of your Woocommerce from WordPress using Orenda Pay.  **[OrendaPay](https://www.orendapay.com.br/)**. 
 
 ## Descrição ##
-Implemente transações por cartão de crédito transparente e boletos bancários no Checkout do seu Woocommerce usando a solução de pagamento **[OrendaPay](https://www.orendapay.com.br/)**
+Implemente transações por cartão de crédito ou débito transparente e boletos bancários no Checkout do seu Woocommerce usando a solução de pagamento **[OrendaPay](https://www.orendapay.com.br/)**
 
 ## Sobre a Integração ##
 
-A integração OrendaPay Woocommerce é uma solução completa para cobrar através boletos bancários ou cartão de crédito no WooCommerce. E ainda conta com os retornos automáticos (callbacks), que serão responsáveis por alterar os status dos seus pedidos no Woocommerce de forma automática, atualizando sempre o status do seu pedido para *processando*.
+A integração OrendaPay Woocommerce é uma solução completa para cobrar através boletos bancários, cartão de crédito e débito no WooCommerce. E ainda conta com os retornos automáticos (callbacks), que serão responsáveis por alterar os status dos seus pedidos no Woocommerce de forma automática, atualizando sempre o status do seu pedido para *processando*. Na versão 4.0 foi lançado o boleto parcelado.
 
 - Geração de boletos bancários
 - Checkout transparente por Cartão de Crédito
+- Checkout transparente por Cartão de Débito
 - Boletos registrados
+- Boletos parcelados
 - Boletos no formato PDF
 - Retorno automático da situação do Pedido
 - Melhor taxa de boletos bancários do Brasil
@@ -39,6 +41,8 @@ Após o download, basta seguir as etapas abaixo:
 5) Após a ativação, navegue pelo menu Woocommerce > Configurações
 6) Na página que abrir, clique na aba "Pagamentos" e Habilite o OrendaPay
 7) Depois clique no botão Gerenciar que aparecerá na frente do OrendaPay e informe os dados de integração.
+8) Os dados de integração podem ser obtidas em seu painel do OrendaPay
+9) Para utilizar cartão de crédito ou débito é necessário ativar uma conta do tipo PLUS no OrendaPay.
 
 ## Dúvidas? ##
 
