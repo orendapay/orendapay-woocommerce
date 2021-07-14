@@ -36,7 +36,7 @@ Após o download, basta seguir as etapas abaixo:
 
 1) Acesse seu Painel de Controle do WordPress (wp-admin)
 2) Acesse o menu Plugins > Adicionar Novo
-3) Clique no botão "Enviar Plugin" e importe o arquivo zip baixado.
+3) Clique no botão "Enviar Plugin" e importe o arquivo zip baixado. (Você também pode buscar no diretório Wordpress o plugin OrendaPay já que esse plugin é homologado)
 4) Depois no menu Plugins, encontre o Plugin instalado (OrendaPay) e clique em "Ativar"
 5) Após a ativação, navegue pelo menu Woocommerce > Configurações
 6) Na página que abrir, clique na aba "Pagamentos" e Habilite o OrendaPay
