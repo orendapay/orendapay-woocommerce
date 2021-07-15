@@ -23,6 +23,7 @@ A integração OrendaPay Woocommerce é uma solução completa para cobrar atrav
 
 - Ter uma conta ativa no **[OrendaPay](https://www.orendapay.com.br/)**
 - Habilitar e obter no Painel **[OrendaPay](https://www.orendapay.com.br/)** o ID e TOKEN de integração da sua conta.
+- Para vender usando cartão de crédito ou débito, deve habilitar a conta virtual Plus no OrendaPay.
 - Ter o WooCommerce versão 2.2 ou superior já instalado em seu Wordpress, 
 - Ter instalado o Plugin https://wordpress.org/plugins/woocommerce-extra-checkout-fields-for-brazil/, este plugin é responsável por habilitar no Checkout Woocommerce campos extras de uso exclusivo do Brasil, como, CPF, CNPJ, CEP, etc...
 
